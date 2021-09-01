@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Sonal Video Vision
 
-You can use the [editor on GitHub](https://github.com/Shrey496/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We provide Internet as well as cable TV services directly from the leading vendors in the Telecommunications space, this includes names like Hathaway and One Broadband (Hinduja group).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
